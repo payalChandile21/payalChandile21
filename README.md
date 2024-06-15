@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GenAI project](https://github.com/payalChandile21/RAG-Model-using-LLAMA-)
 
-- 🌱 I am currently learning advanced frameworks and courses related to Machine Learning, Deep Learning, and GenAI applications. Additionally, I'm expanding my knowledge in cloud technologies, specifically AWS and Google Cloud.**
+- 🌱 I am currently learning advanced frameworks and courses related to Machine Learning, Deep Learning, and GenAI applications. Additionally, I'm expanding my knowledge in cloud technologies, specifically AWS and Google Cloud.
 
 - 👨‍💻 All of my projects are available at [https://github.com/payalChandile21](https://github.com/payalChandile21)
 
